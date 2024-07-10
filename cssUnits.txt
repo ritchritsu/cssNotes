@@ -1,0 +1,9 @@
+font size = rem
+width = % in combinastion with a max-width,ch
+height = if you really need to set height, if yes, use min-height
+padding/margin = use rem or em
+buttons = use em often for padding
+media queries = em
+px for minor things like shadows, borders, etc
+
+SO MAINLY USE EM AND REM, THEN PX
